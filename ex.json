@@ -1,0 +1,73 @@
+[
+    {
+        "format": "can be stored indivisually as objects or multiple objects in an array",
+        "name": "nilesh",
+        "last name": "kumar",
+        "rnames": [
+            "ram",
+            "shyam",
+            "ganshyam"
+        ],
+        "age": "22",
+        "address": {
+            "city": "drabhanga",
+            "state": "bihar"
+        }
+    },
+    {
+        "name": "nilesh",
+        "last name": "kumar",
+        "rnames": [
+            "ram",
+            "shyam",
+            "ganshyam"
+        ],
+        "age": "22",
+        "address": {
+            "city": "drabhanga",
+            "state": "bihar"
+        }
+    },
+    {
+        "name": "nilesh",
+        "last name": "kumar",
+        "rnames": [
+            "ram",
+            "shyam",
+            "ganshyam"
+        ],
+        "age": "22",
+        "address": {
+            "city": "drabhanga",
+            "state": "bihar"
+        }
+    },
+    {
+        "name": "nilesh",
+        "last name": "kumar",
+        "rnames": [
+            "ram",
+            "shyam",
+            "ganshyam"
+        ],
+        "age": "22",
+        "address": {
+            "city": "drabhanga",
+            "state": "bihar"
+        }
+    },
+    {
+        "name": "lodu",
+        "last name": "kumar",
+        "rnames": [
+            "ram",
+            "shyam",
+            "ganshyam"
+        ],
+        "age": "22",
+        "address": {
+            "city": "drabhanga",
+            "state": "bihar"
+        }
+    }
+]
